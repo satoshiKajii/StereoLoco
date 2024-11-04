@@ -13,7 +13,7 @@ the other ("stereonize") adjusts stereo image (from -500 to 500).
 
 stereo output: if your iPhone is older and has only a monaural speaker, just plug a stereo headphone.
 
-AUv3 host: the app works as AUv3 plugin. 
+AUv3 host: the app also works as AUv3 plugin. 
 
 # Support
 
