@@ -10,3 +10,7 @@ the other ("stereonize") adjusts stereo image (from -500 to 500).
 stereo output
 
 AUv3 host
+
+# Support
+
+If you have any questions, please contact me. < kajiisatoshi[AT]gmail[DOT]com >
