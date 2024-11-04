@@ -2,7 +2,7 @@
 
 # Concept
 
-The app is to make an incoming monaural audio signal "pseudo-stereophonic". 
+The app is to make a monaural audio signal "pseudo-stereophonic". 
 
 # Usage:
 
