@@ -1,5 +1,9 @@
 # StereoLoco
 
+# Concept
+
+The app is to make an incoming monaural audio signal "pseudo-stereophonic". 
+
 # Usage:
 
 There are 2 sliders, one of which ("buffer size") determines incoming audio sample size 2^N (default N = 11), 
