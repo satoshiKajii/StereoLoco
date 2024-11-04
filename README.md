@@ -8,3 +8,4 @@ the other ("stereonize") adjusts stereo image (from -500 to 500).
 # system requirements 
 
 stereo output
+AUv3 host
