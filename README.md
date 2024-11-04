@@ -11,7 +11,7 @@ the other ("stereonize") adjusts stereo image (from -500 to 500).
 
 # system requirements 
 
-stereo output
+stereo output: if your iPhone is older and has only a monaural speaker, just plug a stereo headphone.
 
 AUv3 host
 
